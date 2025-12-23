@@ -1,13 +1,35 @@
-<h1 align="center">Hi 👋, I'm Garoh</h1>
-<h3 align="center">A passionate Python developer</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Garoh</h1>
+  <h3>A passionate Python developer</h3>
 
-- 🔭 I’m currently working on [Sunshine-AIO-web](https://github.com/LeGeRyChEeSe/Sunshine-AIO-web)
+  <p>
+    <a href="mailto:help.sunshine.aio@gmail.com">
+      <img src="https://img.shields.io/badge/Email-help.sunshine.aio%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/LeGeRyChEeSe?tab=repositories](https://github.com/LeGeRyChEeSe?tab=repositories)
+---
 
-- 📫 How to reach me **help.sunshine.aio@gmail.com**
+### 🔭 Currently Working On
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **[ROOKIE-ON-QUEST](https://github.com/LeGeRyChEeSe/ROOKIE-ON-QUEST)**: A standalone Meta Quest application designed to browse, download, and install VR games natively, using the Rookie/VRPirates infrastructure.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=legerycheese&show_icons=true&locale=en&layout=compact" alt="legerycheese" /></p>
+### 👨‍💻 About Me
+
+- I’m currently focusing on Python development and automation tools.
+- All of my projects are available [here](https://github.com/LeGeRyChEeSe?tab=repositories).
+- 📫 Reach me at **help.sunshine.aio@gmail.com**
+
+### 🛠 Languages and Tools
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,c,docker,git,linux,postgres" alt="My Skills" />
+</div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=legerycheese&show_icons=true&theme=radical&count_private=true" alt="Garoh's Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legerycheese&layout=compact&theme=radical" alt="Top Langs" height="180"/>
+</div>
