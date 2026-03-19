@@ -6,20 +6,19 @@
     <a href="mailto:help.sunshine.aio@gmail.com">
       <img src="https://img.shields.io/badge/Email-help.sunshine.aio%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a href="https://discord.com/users/garohrl">
+      <img src="https://img.shields.io/badge/Discord-garohrl-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+    </a>
   </p>
 </div>
 
 ---
 
-### 🔭 Currently Working On
-
-- **[ROOKIE-ON-QUEST](https://github.com/LeGeRyChEeSe/ROOKIE-ON-QUEST)**: A standalone Meta Quest application designed to browse, download, and install VR games natively, using the Rookie/VRPirates infrastructure.
-
 ### 👨‍💻 About Me
 
 - I’m currently focusing on Python development and automation tools.
 - All of my projects are available [here](https://github.com/LeGeRyChEeSe?tab=repositories).
-- 📫 Reach me at **help.sunshine.aio@gmail.com**
+- 📫 Reach me at **help.sunshine.aio@gmail.com** or on Discord (**garohrl**)
 
 ### 🛠 Languages and Tools
 
