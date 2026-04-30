@@ -13,16 +13,16 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎮 VRHub
+## VRHub
 [![VRHub](https://github-readme-stats.vercel.app/api/pin/?username=LeGeRyChEeSe&repo=VRHub&theme=radical)](https://github.com/LeGeRyChEeSe/VRHub)
 
 Current project — a platform dedicated to the VR ecosystem. Follow the development in real time!
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 🔭 Currently working on **VRHub** (Kotlin)
 - 💡 Passionate about VR development, game mods, and backend tools
@@ -31,15 +31,15 @@ Current project — a platform dedicated to the VR ecosystem. Follow the develop
 
 ---
 
-## 🛠 Languages and Tools
+## Languages and Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,python,c,cpp,cs,unity" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=kotlin,python,rust,html,css,shell" alt="My Skills" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=legerycheese&show_icons=true&theme=radical&count_private=true" alt="Garoh's Stats" height="180"/>
