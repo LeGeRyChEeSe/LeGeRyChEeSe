@@ -24,8 +24,8 @@ Current project — a platform dedicated to the VR ecosystem. Follow the develop
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **VRHub** and Python automation tools
-- 💡 Passionate about VR development, automation, and backend tools
+- 🔭 Currently working on **VRHub** (Kotlin)
+- 💡 Passionate about VR development, game mods, and backend tools
 - 🎯 Goal: create immersive experiences and useful tools for the community
 - 📫 Reach me at **help.sunshine.aio@gmail.com** or Discord (**garohrl**)
 
@@ -34,7 +34,7 @@ Current project — a platform dedicated to the VR ecosystem. Follow the develop
 ## 🛠 Languages and Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,rust,c,cpp,cs,js,ts,html,css,bash,docker,git,linux,postgres,mongodb,unity" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=kotlin,python,c,cpp,cs,unity" alt="My Skills" />
 </div>
 
 ---
